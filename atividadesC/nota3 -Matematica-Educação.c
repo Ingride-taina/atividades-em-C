@@ -57,7 +57,7 @@ void heapfy(float notas[], char nomes[][30],int n, int i){
 
  }
 
-//função principal do heap max, vai reorganizar o array de maneira decrescente 
+//função principal do heap max, vai reorganizar o array de maneira crescente 
 
 //n/2-1 é o índice do último nó que não- folha
 
